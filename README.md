@@ -20,13 +20,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pt) User can view the app on various device sizes and orientations.
 - [ ] (1pt) Run your app on a real device.
 
-### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=250><br>
-
-### Notes
-Describe any challenges encountered while building the app.
-
 #### GIF
 <img src="https://media.giphy.com/media/Z3NsjsTR85IErQuFio/giphy.gif" width=250><br>
+
+### Notes
+I came across with a bunch of unexpected error even tho I was following the instructor step by step. Some of the mwere becaue of my computer, such as 'I haven't intalled cocoapods before' this was causeing me error and it took a long time for me to understand that cocoapods was the issue. After I was done with the program the gif recorder which CodePath suggested us to use did not work, for some reason it was not recording anyhting that I was doing on the screen.
