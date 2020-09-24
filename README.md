@@ -1,3 +1,4 @@
+
 # Flix
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
@@ -5,6 +6,24 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
 
 ---
+## Flix Part 2
+
+### User Stories
+
+#### REQUIRED (10pts)
+- [ ] (5pts) User can tap a cell to see more details about a particular movie.
+- [ ] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+#### BONUS
+- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+
+#### GIF
+<img src="https://giphy.com/gifs/qRbECttZrOs31wZBmL/fullscreen" width=250><br>
+
+### Notes
+It went reasonably smooth this time. I only have one problem which I wasn't able to figure out, thr grid view. This error pops up in my program and I don't know how to fix it: Thread 1: Exception: "could not dequeue a view of kind: UICollectionElementKindCell with identifier MovieGridCell - must register a nib or a class for the identifier or connect a prototype cell in a storyboard"
+
 
 ## Flix Part 1
 
