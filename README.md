@@ -19,7 +19,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 #### GIF
-<img src="https://giphy.com/gifs/Q5aoSUqWHoypMFjvWB/fullscreen.gif" width=250><br>
+<img src="https://media.giphy.com/media/Q5aoSUqWHoypMFjvWB/fullscreen.gif" width=250><br>
 
 ### Notes
 It went reasonably smooth this time. I only have one problem which I wasn't able to figure out, thr grid view. This error pops up in my program and I don't know how to fix it: Thread 1: Exception: "could not dequeue a view of kind: UICollectionElementKindCell with identifier MovieGridCell - must register a nib or a class for the identifier or connect a prototype cell in a storyboard"
