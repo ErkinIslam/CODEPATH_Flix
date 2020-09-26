@@ -40,7 +40,7 @@ It went reasonably smooth this time. I only have one problem which I wasn't able
 - [ ] (1pt) Run your app on a real device.
 
 #### GIF
-<img src="https://giphy.com/gifs/Q5aoSUqWHoypMFjvWB/fullscreen.gif" width=250><br>
+<img src="https://media.giphy.com/media/Z3NsjsTR85IErQuFio/giphy.gif" width=250><br>
 
 ### Notes
 I came across with a bunch of unexpected error even tho I was following the instructor step by step. Some of the mwere becaue of my computer, such as 'I haven't intalled cocoapods before' this was causeing me error and it took a long time for me to understand that cocoapods was the issue. After I was done with the program the gif recorder which CodePath suggested us to use did not work, for some reason it was not recording anyhting that I was doing on the screen.
